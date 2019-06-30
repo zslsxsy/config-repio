@@ -15,5 +15,5 @@ mybatis:
   config-location: classpath:mybatis-config.xml
   mapper-locations: classpath:mappers/*.xml
   check-config-location: true
-  env:
-    test
+env:
+  test
